@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>syati.github.io/yourblog/post/</link>
+    <link>http://syati.github.io/yourblog/post/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sat, 06 Jun 2015 17:20:38 +0900</lastBuildDate>
-    <atom:link href="syati.github.io/yourblog/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://syati.github.io/yourblog/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>first</title>
-      <link>/syati.github.io/yourblog/post/first/</link>
+      <link>http://syati.github.io/yourblog/post/first/</link>
       <pubDate>Sat, 06 Jun 2015 17:20:38 +0900</pubDate>
       
-      <guid>/syati.github.io/yourblog/post/first/</guid>
+      <guid>http://syati.github.io/yourblog/post/first/</guid>
       <description>&lt;p&gt;first page&lt;/p&gt;
 </description>
     </item>
