@@ -2,6 +2,7 @@ title = "My New Hugo Site"
 baseurl = "syati.github.io/yourblog"
 languageCode = "ja-jp"
 theme = "hyde"
+canonifyurls = true
 
 [params]
   description = "This is yourblog"
