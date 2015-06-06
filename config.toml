@@ -1,3 +1,14 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
 title = "My New Hugo Site"
+baseurl = "syati.github.io/yourblog"
+languageCode = "ja-jp"
+theme = "hyde"
+
+[params]
+  description = "This is yourblog"
+  author = "your name"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+
