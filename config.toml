@@ -1,6 +1,10 @@
 title = "My New Hugo Site"
 baseurl = "http://syati.github.io/yourblog"
 languageCode = "ja-jp"
+<<<<<<< HEAD
+=======
+theme = "hyde"
+>>>>>>> e301ea66fe58e5da81335fd551d686e565ee48dd
 canonifyurls = true
 
 [author]
